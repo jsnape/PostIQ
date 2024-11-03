@@ -110,3 +110,4 @@ UpgradeLog*.XML
 /TinMonkey.PostIQ/BenchmarkDotNet.Artifacts/
 
 .fake
+launchSettings.json
